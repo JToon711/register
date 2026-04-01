@@ -1,1 +1,9 @@
-
+{
+  "owner": {
+    "username": "JToon711",
+    "email": "jaketoon17@gmail.com"
+  },
+  "record": {
+    "CNAME": "nova-hub.pages.dev"
+  }
+}
